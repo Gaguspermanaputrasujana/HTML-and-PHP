@@ -1,0 +1,19 @@
+<li>Mangga </li>
+<li>Jeruk </li>
+</ol>
+<h3> list dengan nomer : huruf romawi besar</h3>
+<ol type ="I">
+<li>Pisang </li>
+<li>Apel </li>
+<li>Mangga </li>
+<li>Jeruk </li>
+</ol>
+<h3> list dengan nomer : huruf romawi kecil</h3>
+<ol type ="i">
+<li>Pisang </li>
+<li>Apel </li>
+<li>Mangga </li>
+<li>Jeruk </li>
+</ol>
+</body>
+</html>

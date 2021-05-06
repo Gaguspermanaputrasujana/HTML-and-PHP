@@ -1,0 +1,14 @@
+<html>
+<body>
+AGAMA
+<form>
+<input type="radio" name ="agm" checked>Hindu
+<br>
+<input type="radio" name ="agm" >Islam
+<br>
+<input type="radio" name ="agm" >Kristen
+<br>
+<input type="radio" name ="agm" >Budha
+</form>
+</body>
+</html>

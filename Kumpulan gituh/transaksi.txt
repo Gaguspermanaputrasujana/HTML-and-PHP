@@ -1,0 +1,117 @@
+<html>
+<head>
+<title>Form Pegawai USDI</title>
+</head>
+
+<body>
+
+<table border = "0"  align="center" style="background-color:#FFFFFF">
+<tr>
+<caption style="background-color:#FFFFFF" > Formulir Data KTM </caption>
+<td>
+<form align="left" > 
+<br>
+Nama
+</td>
+<td>
+:
+</td>
+<td>
+<input type="text" name ="nama" size="50">
+</td>
+</form>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<form align="left" > 
+<br>
+No Induk 
+</td>
+<td>
+:
+</td>
+<td>
+<input type="text" name ="nik" size="30">
+</td>
+</form>
+</tr>
+
+<tr>
+<td>
+<form align="left" >
+<br>
+Fakutas
+<td>
+:
+</td>
+<td>
+<select name ="---Fakultas---">
+<option value ="MIPA">MIPA
+<option value ="Fakultas Kedokteran">FK
+<option value ="Kelautan">KELAUTAN
+<option value ="Pertanian">PERTANIAN
+</select>
+</td>
+</form>
+</td>
+</tr>
+
+<tr>
+<td>
+<form align="left" >
+<br>
+Program Studi
+<td>
+:
+</td>
+<td>
+<select name ="---Jurusan---">
+<option value ="Fisika">Fisika
+<option value ="Biologi">BIOLOGI
+<option value ="Kimia">KIMIA
+<option value ="Matematika">Matematika
+</select>
+</td>
+</form>
+</td>
+</tr>
+
+
+
+
+<tr>
+<td>
+<br> 
+Foto
+</td>
+<td>
+:
+</td>
+<td>
+<form action="form_action.asp" method = "get">
+<br>
+<input type="submit" value ="Unggah">
+</form>
+</td>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<form action="form_action.asp" method = "get">
+&nbsp &nbsp 
+
+<input type="submit" value ="kirim">
+<input type="reset" value ="reset">
+</form>
+</td>
+</tr>
+</table>
+
+
+</body>
+</html>

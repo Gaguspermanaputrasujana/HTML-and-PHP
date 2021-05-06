@@ -1,0 +1,11 @@
+<html>
+<body>
+<form>
+Nama :
+<input type="text" name ="nama" size="10">
+<br>
+Alamat :
+<input type="text" name ="alm" size="30">
+</form>
+</body>
+</html>

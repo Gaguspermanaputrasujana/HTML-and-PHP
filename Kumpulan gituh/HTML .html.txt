@@ -1,0 +1,75 @@
+<html>
+<head> <link rel="shortcut icon" href="NSA.ico" />
+
+<title> 
+National Security Agency
+</title>
+
+<style>
+body {
+    background-color: 	#23297A
+}
+</style>
+
+</head>
+
+
+   
+<p></p>
+<center>
+<img src = "D:\Working files\Hobi dan Projek seru\Programming\Kumpulan gituh\NSA.png" alt= "Test Image" width = "300" height = "300" />
+</center>
+
+<p> <h1 style="text-align:center"> 
+	Information Biro
+</h1> </p> 
+
+<h2> Introduction </h2> <block>
+&emsp; &emsp; &emsp; &emsp; <! untuk kasi spasi yo /> Information Biro handle information gathered, shared or accumulated data to be analyzed so the information can be ready for use by appopriate user such as the executive power or by the law enforcement department. Department is supported with latest equipment for analyzing data so it can function properly to help minimizing threat to the nation and secure the Homeland.
+
+<h2> Requirement for Applicant </h2> <block>
+&emsp; &emsp; &emsp; &emsp; Job application is open and below is main requirement for the applicant to submit for pre-Interview 
+<p>
+<p>
+1. Tax Identification Numbers
+</p>
+2. CV
+<p>
+3. Birth Certificate
+</p>
+4. Filled Registration
+</p>
+
+<h2> Photos </h2> <block>
+<center>
+<img src = "D:\Working files\Hobi dan Projek seru\Programming\Kumpulan gituh\NSAHQ.jpg" alt= "Test Image" width = "500" height = "500" />
+<p>Information Department's Main Office</p>
+</center>
+
+<center>
+<img src = "D:\Working files\Hobi dan Projek seru\Programming\Kumpulan gituh\mainframe.jpg" alt= "Test Image" width = "500" height = "500" />
+<p>Information Department's Mainframe</p>
+</center>
+
+<p "center"> <h1 style="text-align:center"> 
+	Field Surveilance Biro
+</h1> </p>
+
+<h2>
+Introduction
+</h2>
+<p>
+&emsp; &emsp; &emsp; &emsp; Surveilance Department's is the field department that takes the actual data and information. More or less all data on information department came from this department. Personel's identity of the department is keep secret for the safety of the personel and the information they caried on.
+<p>
+<h2> Photos </h2> <block>
+<center>
+<img src = "D:\Working files\Hobi dan Projek seru\Programming\Kumpulan gituh\field.jpg" alt= "Test Image" width = "500" height = "400" />
+<p>Surveilance Department's Obervatory</p>
+</center>
+	  
+
+</div>
+
+
+</body>
+</html>
